@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 ## Hi there 👋
 - 🔭 I’m currently working on ORACLE SQL
