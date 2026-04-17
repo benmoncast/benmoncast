@@ -59,7 +59,7 @@ I build scalable web applications and cloud-native systems using modern technolo
 
 ## 📫 Contact
 📧 benmoncast@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/benedict-castro
+🔗 LinkedIn: [https://linkedin.com/in/benedict-castro](https://www.linkedin.com/in/benedict-castro-1b3859183/)
 
 ---
 
